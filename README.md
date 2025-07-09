@@ -37,7 +37,7 @@ Frontend con React y backend en Laravel para gestionar una tienda de tatuajes y 
 
 ## 📫 ¿Dónde encontrarme?
 
-- 🔗 [LinkedIn]([https://linkedin.com/in/alessandra-miluska-reano-olaya-9b5371288]).
+- 🔗 [LinkedIn](https://linkedin.com/in/alessandra-miluska-reano-olaya-9b5371288)
 - ✉️ Email: alessandra.reano@urp.edu.pe
 
 ---
