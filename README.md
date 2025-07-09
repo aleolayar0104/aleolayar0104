@@ -2,7 +2,8 @@
 🎓 **Backend Developer Junior** con formación en Ingeniería Informática.  
 💻 Me apasiona construir APIs eficientes, seguras y conectadas con bases de datos reales.
 
-Tengo experiencia práctica usando **Spring Boot**, **Laravel**, **MySQL** , **PostgreSQL** y también he trabajado en integraciones con **Unity** para recorridos virtuales.
+Tengo experiencia práctica usando **Spring Boot**, **Laravel**, **MySQL** , **PostgreSQL**, **C# con Unity** para proyectos interactivos como recorridos virtuales y conexión con APIs.
+
 
 ---
 
@@ -17,6 +18,7 @@ Tengo experiencia práctica usando **Spring Boot**, **Laravel**, **MySQL** , **P
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
 
 ---
 
@@ -46,7 +48,7 @@ Frontend con React y backend en Laravel para gestionar una tienda de tatuajes y 
 ## 💡 Fortalezas
 - Desarrollo de APIs RESTful con Spring Boot y Laravel
 - Consultas eficientes en bases de datos relacionales
-- Integración de frontend con backend (React o Unity)
-- Uso de Git y GitHub para control de versiones
-- Trabajo en equipo y ganas de seguir aprendiendo
+- Integración Unity + C# con conexión a bases de datos via APIs
+- Buen manejo de control de versiones (Git)
+- Trabajo en equipo, curiosidad y aprendizaje constante
 
