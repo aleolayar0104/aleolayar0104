@@ -26,6 +26,7 @@ Tengo experiencia práctica usando **Spring Boot**, **Laravel**, **MySQL** , **P
 Proyecto en Unity y Laravel que permite simular un recorrido virtual por la Universidad Ricardo Palma. Backend propio para registrar visitantes e intereses académicos.
 
 🔹 **VisitURP - Sistema de Gestión de Visitantes**
+
 Sistema web completo para registrar, almacenar y analizar datos de visitantes virtuales y presenciales.
 Desarrollado con Laravel, MySQL y React para el panel de administración.
 Permite detectar patrones, generar estadísticas y mejorar la toma de decisiones institucionales.
