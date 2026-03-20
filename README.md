@@ -1,49 +1,53 @@
 # 👋 Hi there! I'm Alessandra — or just Ale
 
-🎓 **Backend Developer** | [cite_start]Bachelor’s Degree in Computer Engineering[cite: 104].
-[cite_start]💻 Passionate about building high-performance, scalable, and secure **microservices**[cite: 42, 51].
-[cite_start]🚀 Currently specializing in **Reactive Programming** and **Cloud Infrastructure**[cite: 43, 83].
+🎓 **Backend Developer** | Bachelor’s Degree in Computer Engineering from **Ricardo Palma University**.
+💻 Passionate about building high-performance, scalable, and secure **microservices**.
+🚀 Experienced in **Reactive Programming**, **Cloud Infrastructure**, and **Full-Stack Integration**.
 
 ---
 
 ### 🛠️ Technologies I Use
 
-* [cite_start]**Backend:** Java (Spring Boot / **WebFlux**), **Kotlin**, **NestJS**, Laravel PHP[cite: 49, 81, 83, 84, 85].
-* [cite_start]**Databases:** **PostgreSQL**, MySQL[cite: 91, 92].
-* [cite_start]**Cloud & DevOps:** **AWS (ECS, Amplify)**, **Docker**, **SonarQube**[cite: 52, 54, 87, 88].
-* [cite_start]**Frontend:** React, Next.js, TypeScript[cite: 73, 77].
-* [cite_start]**Tools:** Git, Jira, Confluence, Trello[cite: 55, 67, 97, 98].
+* **Backend:** Java (Spring Boot / **WebFlux**), **Kotlin**, **NestJS**, Laravel PHP.
+* **Databases:** **PostgreSQL**, MySQL.
+* **Cloud & DevOps:** **AWS (ECS, Amplify)**, **Docker**, **SonarQube**.
+* **Frontend:** React, Next.js, TypeScript.
+* **Game Dev & Simulation:** **C#** and **Unity**.
+* **Tools:** Git, Jira, Confluence.
 
 ---
 
 ### 💼 Featured Projects
 
-#### [cite_start]🔹 Bóveda Secreta Web App [cite: 69]
-* [cite_start]Full-stack application designed for secure data management[cite: 71, 75].
-* [cite_start]**Backend:** Java & Spring Boot with REST APIs[cite: 72].
-* [cite_start]**Frontend:** Next.js, React, and TypeScript[cite: 73].
+#### 🔹 309 Technology - Backend Services
+* Development of backend services and REST APIs using **Java, NestJS, Kotlin, and Spring Boot WebFlux**.
+* Design and implementation of **microservices architecture** and business logic.
+* Management of deployments in **AWS (ECS and Amplify)**.
+* Quality monitoring through **SonarQube** and team collaboration via **Jira/Confluence**.
 
-#### [cite_start]🔹 309 Technology - Microservices Architecture [cite: 47]
-* [cite_start]Designed and implemented scalable backend services using **Kotlin** and **Spring Boot WebFlux**[cite: 49, 51].
-* [cite_start]Managed deployments in **AWS (ECS)** and monitored code quality with **SonarQube**[cite: 52, 54].
+#### 🔹 Bóveda Secreta Web App
+* Secure full-stack application for managing information with **Java/Spring Boot** on the backend.
+* Developed a modern frontend using **Next.js, React, and TypeScript**.
+* Focused on secure data handling and structured API architecture.
 
-#### [cite_start]🔹 VisitAll Virtual Tour & Management System [cite: 56, 108]
-* [cite_start]Integrated **Unity + C#** with a custom **Laravel** backend to track visitor analytics and institutional data[cite: 101, 102].
-* Built a full-stack system for data analysis and institutional decision-making support.
+#### 🔹 VisitAll & VisitURP (Ricardo Palma University)
+* **VisitAll**: Developed a virtual tour using **Unity and Laravel**, including a custom backend for visitor tracking.
+* **VisitURP**: Visitor management system for data analysis and institutional decision-making support using **React and MySQL**.
 
 ---
 
 ### 💡 Strengths
 
-* [cite_start]**Reactive & Scalable Backend:** Expert in building asynchronous services with **Spring WebFlux**[cite: 42, 83].
-* [cite_start]**Cloud Management:** Hands-on experience deploying and managing services in **AWS**[cite: 52, 89].
-* [cite_start]**Code Excellence:** Strong focus on **QA** and clean architecture using **SonarQube** and **Jira**[cite: 54, 55].
-* [cite_start]**International Experience:** Adaptable professional with work experience in **Australia, USA, Chile, and Peru**[cite: 20, 23, 30, 39].
+* **Advanced Technical Background:** Expert in **Spring WebFlux** and reactive backend services.
+* **Cloud Proficiency:** Hands-on experience with **AWS** service management and deployment.
+* **Analytical Mindset:** Focused on building efficient, secure, and well-structured systems.
+* **International Adaptability:** Proven experience working in **Australia, USA, Chile, and Peru**.
+* **Language Skills:** Native Spanish and **Advanced English (IELTS 6.0)**.
 
 ---
 
 ### 📫 Get in Touch
 
-* [cite_start]🔗 [LinkedIn](https://linkedin.com/in/alessandra-miluska-reano-olaya-9b5371288) [cite: 40]
-* [cite_start]✉️ [alessandra.reano@urp.edu.pe](mailto:alessandra.reano@urp.edu.pe) [cite: 40]
-* [cite_start]🐙 [GitHub](https://github.com/aleolayar0104) [cite: 40]
+* 🔗 [LinkedIn](https://linkedin.com/in/alessandra-miluska-reano-olaya-9b5371288)
+* 🐙 [GitHub](https://github.com/aleolayar0104)
+* ✉️ [alessandra.reano@urp.edu.pe](mailto:alessandra.reano@urp.edu.pe)
