@@ -1,65 +1,49 @@
-# 👋 Hi there! I'm Alessandra — or just Ale  
+# 👋 Hi there! I'm Alessandra — or just Ale
 
-🎓 **Junior Backend Developer** with a degree in Computer Engineering.  
-💻 Passionate about building efficient, secure, and data-driven APIs.
-
-I have hands-on experience using **Spring Boot**, **Laravel**, **MySQL**, **PostgreSQL**, and **C# with Unity** for interactive projects like virtual tours and API integrations.  
-I also work with **Docker**, **SonarQube**, and project management tools like **Jira**, **Trello**, and **Confluence** to ensure quality, organization, and scalability.
+🎓 **Backend Developer** | [cite_start]Bachelor’s Degree in Computer Engineering[cite: 104].
+[cite_start]💻 Passionate about building high-performance, scalable, and secure **microservices**[cite: 42, 51].
+[cite_start]🚀 Currently specializing in **Reactive Programming** and **Cloud Infrastructure**[cite: 43, 83].
 
 ---
 
-## 🛠️ Technologies I Use
+### 🛠️ Technologies I Use
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
+* [cite_start]**Backend:** Java (Spring Boot / **WebFlux**), **Kotlin**, **NestJS**, Laravel PHP[cite: 49, 81, 83, 84, 85].
+* [cite_start]**Databases:** **PostgreSQL**, MySQL[cite: 91, 92].
+* [cite_start]**Cloud & DevOps:** **AWS (ECS, Amplify)**, **Docker**, **SonarQube**[cite: 52, 54, 87, 88].
+* [cite_start]**Frontend:** React, Next.js, TypeScript[cite: 73, 77].
+* [cite_start]**Tools:** Git, Jira, Confluence, Trello[cite: 55, 67, 97, 98].
 
 ---
 
-## 💼 Featured Projects
+### 💼 Featured Projects
 
-### 🔹 VisitAll Virtual Tour  
-Developed with **Unity** and **Laravel** — a virtual tour of Ricardo Palma University.  
-Includes a custom backend to register visitors and track their academic interests.
+#### [cite_start]🔹 Bóveda Secreta Web App [cite: 69]
+* [cite_start]Full-stack application designed for secure data management[cite: 71, 75].
+* [cite_start]**Backend:** Java & Spring Boot with REST APIs[cite: 72].
+* [cite_start]**Frontend:** Next.js, React, and TypeScript[cite: 73].
 
-### 🔹 VisitURP - Visitor Management System  
-Full web system for registering, storing, and analyzing data from both virtual and physical visitors.  
-Built with **Laravel**, **MySQL**, and **React** for the admin dashboard.  
-Allows pattern detection, statistics generation, and institutional decision-making support.
+#### [cite_start]🔹 309 Technology - Microservices Architecture [cite: 47]
+* [cite_start]Designed and implemented scalable backend services using **Kotlin** and **Spring Boot WebFlux**[cite: 49, 51].
+* [cite_start]Managed deployments in **AWS (ECS)** and monitored code quality with **SonarQube**[cite: 52, 54].
 
-### 🔹 Tattoo Shop Web  
-**React** frontend and **Laravel** backend for managing a tattoo shop and handling customer email contact.
-
----
-
-## 💡 Strengths
-
-- RESTful API development with **Spring Boot** and **Laravel**  
-- Database design and optimization (**MySQL** / **PostgreSQL**)  
-- Integration between **Unity + C#** and APIs  
-- CI/CD setup using **Docker** and **SonarQube**  
-- Team collaboration using **Jira**, **Trello**, and **Confluence**  
-- Strong understanding of version control with **Git**  
-- Curious, disciplined, and always learning new technologies  
+#### [cite_start]🔹 VisitAll Virtual Tour & Management System [cite: 56, 108]
+* [cite_start]Integrated **Unity + C#** with a custom **Laravel** backend to track visitor analytics and institutional data[cite: 101, 102].
+* Built a full-stack system for data analysis and institutional decision-making support.
 
 ---
 
-## 📫 Get in Touch
+### 💡 Strengths
 
-- 🔗 [LinkedIn](https://linkedin.com/in/alessandra-miluska-reano-olaya-9b5371288)  
-- ✉️ **alessandra.reano@urp.edu.pe**
+* [cite_start]**Reactive & Scalable Backend:** Expert in building asynchronous services with **Spring WebFlux**[cite: 42, 83].
+* [cite_start]**Cloud Management:** Hands-on experience deploying and managing services in **AWS**[cite: 52, 89].
+* [cite_start]**Code Excellence:** Strong focus on **QA** and clean architecture using **SonarQube** and **Jira**[cite: 54, 55].
+* [cite_start]**International Experience:** Adaptable professional with work experience in **Australia, USA, Chile, and Peru**[cite: 20, 23, 30, 39].
+
+---
+
+### 📫 Get in Touch
+
+* [cite_start]🔗 [LinkedIn](https://linkedin.com/in/alessandra-miluska-reano-olaya-9b5371288) [cite: 40]
+* [cite_start]✉️ [alessandra.reano@urp.edu.pe](mailto:alessandra.reano@urp.edu.pe) [cite: 40]
+* [cite_start]🐙 [GitHub](https://github.com/aleolayar0104) [cite: 40]
