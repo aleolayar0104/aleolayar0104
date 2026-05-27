@@ -8,10 +8,10 @@
 
 ### 🛠️ Technologies I Use
 
-* **Backend:** Java (Spring Boot / **WebFlux**), **Kotlin**, **NestJS**, Laravel PHP.
+* **Backend:** Java (Spring Boot / **WebFlux**), **Kotlin**, **NestJS**, **Python FastAPI**, **Laravel PHP**.
 * **Databases:** **PostgreSQL**, MySQL.
-* **Cloud & DevOps:** **AWS (ECS, Amplify)**, **Docker**, **SonarQube**.
-* **Frontend:** React, Next.js, TypeScript.
+* **Cloud & DevOps:** **Terraform**, **AWS (ECS, Amplify)**, **Docker**, **SonarQube**.
+* **Frontend:** React, Vite, Next.js, TypeScript.
 * **Game Dev & Simulation:** **C#** and **Unity**.
 * **Tools:** Git, Jira, Confluence.
 
